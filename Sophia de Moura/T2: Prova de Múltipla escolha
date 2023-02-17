@@ -1,0 +1,265 @@
+<!--Elabore uma lista de exercícios com cinco questões de múltipla escolha, que abordam qualquer um dos temas já apresentados anteriormente no curso.
+    As questões devem ter 4 alternativas, e apenas uma deve ser a correta. Nomeie a página como prova.html.
+
+    Dica: utilize as tags <ol>para questões, e <ul>para alternativas.-->
+
+<DOCTYPE html>
+<html>
+    <head>
+        <meta charset = "UTF-8">
+        <title>T2: Prova de Múltipla escolha</title>
+    </head>
+
+    <body>
+        <dl>
+            <dd><h1>
+                    1. QUESTÃO MATEMÁTICA
+                </h1>
+                <p>
+                    (Enem 2015) Um granjeiro detectou uma infecção bacteriológica em sua criação de 100 coelhos.
+                    A massa de cada coelho era de, aproximadamente, 4 kg. Um veterinário prescreveu a aplicação de um antibiótico,
+                    vendido em frascos contendo 16 mL, 25 mL, 100 mL, 400 mL ou 1 600 mL. A bula do antibiótico recomenda que, em aves e coelhos,
+                    seja administrada uma dose única de 0,25 mL para cada quilograma de massa do animal.
+                    Para que todos os coelhos recebessem a dosagem do antibiótico recomendada pela bula, de tal maneira que não sobrasse produto na embalagem,
+                    o criador deveria comprar um único frasco com a quantidade, em mililitros, igual a
+                </p>
+                <fieldset>
+					<label for='radio-a'><input type='radio' name='alternativa' value='16' id='radio-a'>16</label>
+
+                    <label for='radio-a'><input type='<!--Elabore uma lista de exercícios com cinco questões de múltipla escolha, que abordam qualquer um dos temas já apresentados anteriormente no curso.
+                        As questões devem ter 4 alternativas, e apenas uma deve ser a correta. Nomeie a página como prova.html.
+                    
+                        Dica: utilize as tags <ol>para questões, e <ul>para alternativas.-->
+                    
+                    <DOCTYPE html>
+                    <html>
+                        <head>
+                            <meta charset = "UTF-8">
+                            <title>T2: Prova de Múltipla escolha</title>
+                        </head>
+                    
+                        <body>
+                            <dl>
+                                <dd><h1>
+                                        1. QUESTÃO MATEMÁTICA
+                                    </h1>
+                                    <p>
+                                        (Enem 2015) Um granjeiro detectou uma infecção bacteriológica em sua criação de 100 coelhos.
+                                        A massa de cada coelho era de, aproximadamente, 4 kg. Um veterinário prescreveu a aplicação de um antibiótico,
+                                        vendido em frascos contendo 16 mL, 25 mL, 100 mL, 400 mL ou 1 600 mL. A bula do antibiótico recomenda que, em aves e coelhos,
+                                        seja administrada uma dose única de 0,25 mL para cada quilograma de massa do animal.
+                                        Para que todos os coelhos recebessem a dosagem do antibiótico recomendada pela bula, de tal maneira que não sobrasse produto na embalagem,
+                                        o criador deveria comprar um único frasco com a quantidade, em mililitros, igual a
+                                    </p>
+                                    <fieldset>
+                                        <label for='radio-a'><input type='radio' name='alternativa' value='16' id='radio-a'>16</label>
+                    
+                                        <label for='radio-a'><input type='radio' name='alternativa' value='16' id='radio-a'>25</label>
+                    
+                                        <label for='radio-a'><input type='radio' name='alternativa' value='16' id='radio-a'>100</label>
+                    
+                                        <label for='radio-a'><input type='radio' name='alternativa' value='16' id='radio-a'>400</label>
+                    
+                                        <label for='radio-a'><input type='radio' name='alternativa' value='16' id='radio-a'>1600</label>
+                                    </fieldset>	
+                                </dd>
+                    
+                                <dd><h1>
+                                    2. QUESTÃO MATEMÁTICA
+                                    </h1>
+                                    <p>
+                                        (Enem 2017) Em uma cantina, o sucesso de vendas no verão são sucos preparados à base de polpa de frutas.
+                                        Um dos sucos mais vendidos é o de morango com acerola, que é preparado com 2/3 de polpa de morango e 1/3 de polpa de acerola.
+                                        Para o comerciante, as polpas são vendidas em embalagens de igual volume. Atualmente, a embalagem da polpa de morango
+                                        custa R$ 18,00 e a de acerola, R$ 14,70. Porém, está prevista uma alta no preço da embalagem da polpa de acerola no próximo mês,
+                                        passando a custar R$ 15,30. Para não aumentar o preço do suco, o comerciante negociou com o fornecedor uma redução no preço da embalagem
+                                        da polpa de morango. A redução, em real, no preço da embalagem da polpa de morango deverá ser de:
+                                    </p>
+                                    <fieldset>
+                                        <label for='radio-a'><input type='radio' name='alternativa' value='alternativaA' id='radio-a'>1,20</label>
+                    
+                                        <label for='radio-a'><input type='radio' name='alternativa' value='alternativaB' id='radio-a'>0,90</label>
+                    
+                                        <label for='radio-a'><input type='radio' name='alternativa' value='alternaticaC' id='radio-a'>0,60</label>
+                    
+                                        <label for='radio-a'><input type='radio' name='alternativa' value='alternatiVaD' id='radio-a'>0,40</label>
+                    
+                                        <label for='radio-a'><input type='radio' name='alternativa' value='alternativaE' id='radio-a'>0,30</label>
+                                    </fieldset>	
+                                </dd>
+                                
+                                <dd><h1>
+                                    3. QUESTÃO MATEMÁTICA
+                                    </h1>
+                                    <p>
+                                        (Enem 2016) Nas construções prediais são utilizados tubos de diferentes medidas para a instalação da rede de água.
+                                        Essas medidas são conhecidas pelo seu diâmetro, muitas vezes medido em polegada. Alguns desses tubos,
+                                        com medidas em polegada, são os tubos de 1/2, 3/8 e 5/4.
+                                        Colocando os valores dessas medidas em ordem crescente, encontramos
+                                    </p>
+                                    <fieldset>
+                                        <label for='radio-a'><input type='radio' name='alternativa' value='alternativaA' id='radio-a'>1/2, 3/8, 5/4</label>
+                    
+                                        <label for='radio-a'><input type='radio' name='alternativa' value='alternativaB' id='radio-a'>1/2, 5/4, 3/8</label>
+                    
+                                        <label for='radio-a'><input type='radio' name='alternativa' value='alternaticaC' id='radio-a'>3/8, 1/2, 5/4</label>
+                    
+                                        <label for='radio-a'><input type='radio' name='alternativa' value='alternatiVaD' id='radio-a'>03/8, 5/4, 1/2</label>
+                    
+                                        <label for='radio-a'><input type='radio' name='alternativa' value='alternativaE' id='radio-a'>5/4, 1/2, 3/8</label>
+                                    </fieldset>	
+                                </dd>              
+                    
+                                <dd><h1>
+                                    4. QUESTÃO BIOLOGIA
+                                    </h1>
+                                    <p>
+                                        (Enem 2021) Organismos autótrofos e heterótrofos realizam processos complementares que associam os ciclos do carbono e do oxigênio.
+                                        O carbono fixado pela energia luminosa ou a partir de compostos inorgânicos é eventualmente degradado pelos organismos,
+                                        resultando em fontes de carbono como metano ou gás carbônico. Ainda, outros compostos orgânicos são catabolizados pelos seres,
+                                        com menor rendimento energético, produzindo compostos secundários (subprodutos) que podem funcionar como combustíveis ambientais.
+                                        O processo metabólico associado à expressão combustíveis ambientais é a                    
+                                    </p>
+                                    <fieldset>
+                                        <label for='radio-a'><input type='radio' name='alternativa' value='alternativaA' id='radio-a'>Fotossíntese.</label>
+                    
+                                        <label for='radio-a'><input type='radio' name='alternativa' value='alternativaB' id='radio-a'>Fermentação.</label>
+                    
+                                        <label for='radio-a'><input type='radio' name='alternativa' value='alternaticaC' id='radio-a'>Quimiossíntese.</label>
+                    
+                                        <label for='radio-a'><input type='radio' name='alternativa' value='alternatiVaD' id='radio-a'>Respiração aeróbica.</label>
+                    
+                                        <label for='radio-a'><input type='radio' name='alternativa' value='alternativaE' id='radio-a'>Fosforilação oxidativa.</label>
+                                    </fieldset>	
+                                </dd>
+                    
+                                <dd><h1>
+                                    5. QUESTÃO BIOLOGIA
+                                    </h1>
+                                    <p>
+                                        (Enem 2018 PPL) A ricina, substância tóxica extraída da mamona, liga-se ao açúcar galactose presente na membrana plasmática de muitas
+                                        células do nosso corpo. Após serem endocitadas, penetram no citoplasma da célula, onde destroem os ribossomos,
+                                        matando a célula em poucos minutos.
+                                    </p><h6>SADAVA, D. et al. Vida: a ciência da biologia. Porto Alegre: Artmed, 2009 (adaptado).</h6>
+                                    <p>  
+                                        O uso dessa substância pode ocasionar a morte de uma pessoa ao inibir, diretamente, a síntese de            
+                                    </p>
+                                    <fieldset>
+                                        <label for='radio-a'><input type='radio' name='alternativa' value='alternativaA' id='radio-a'>RNA.</label>
+                    
+                                        <label for='radio-a'><input type='radio' name='alternativa' value='alternativaB' id='radio-a'>DNA.</label>
+                    
+                                        <label for='radio-a'><input type='radio' name='alternativa' value='alternaticaC' id='radio-a'>Lipídios.</label>
+                    
+                                        <label for='radio-a'><input type='radio' name='alternativa' value='alternatiVaD' id='radio-a'>Proteínas.</label>
+                    
+                                        <label for='radio-a'><input type='radio' name='alternativa' value='alternativaE' id='radio-a'>Carboidratos.</label>
+                                    </fieldset>	
+                                </dd>             
+                            </dl>
+                        </body>
+                    </html>radio' name='alternativa' value='16' id='radio-a'>25</label>
+
+                    <label for='radio-a'><input type='radio' name='alternativa' value='16' id='radio-a'>100</label>
+
+                    <label for='radio-a'><input type='radio' name='alternativa' value='16' id='radio-a'>400</label>
+
+                    <label for='radio-a'><input type='radio' name='alternativa' value='16' id='radio-a'>1600</label>
+				</fieldset>	
+            </dd>
+
+            <dd><h1>
+                2. QUESTÃO MATEMÁTICA
+                </h1>
+                <p>
+                    (Enem 2017) Em uma cantina, o sucesso de vendas no verão são sucos preparados à base de polpa de frutas.
+                    Um dos sucos mais vendidos é o de morango com acerola, que é preparado com 2/3 de polpa de morango e 1/3 de polpa de acerola.
+                    Para o comerciante, as polpas são vendidas em embalagens de igual volume. Atualmente, a embalagem da polpa de morango
+                    custa R$ 18,00 e a de acerola, R$ 14,70. Porém, está prevista uma alta no preço da embalagem da polpa de acerola no próximo mês,
+                    passando a custar R$ 15,30. Para não aumentar o preço do suco, o comerciante negociou com o fornecedor uma redução no preço da embalagem
+                    da polpa de morango. A redução, em real, no preço da embalagem da polpa de morango deverá ser de:
+                </p>
+                <fieldset>
+                    <label for='radio-a'><input type='radio' name='alternativa' value='alternativaA' id='radio-a'>1,20</label>
+
+                    <label for='radio-a'><input type='radio' name='alternativa' value='alternativaB' id='radio-a'>0,90</label>
+
+                    <label for='radio-a'><input type='radio' name='alternativa' value='alternaticaC' id='radio-a'>0,60</label>
+
+                    <label for='radio-a'><input type='radio' name='alternativa' value='alternatiVaD' id='radio-a'>0,40</label>
+
+                    <label for='radio-a'><input type='radio' name='alternativa' value='alternativaE' id='radio-a'>0,30</label>
+                </fieldset>	
+            </dd>
+            
+            <dd><h1>
+                3. QUESTÃO MATEMÁTICA
+                </h1>
+                <p>
+                    (Enem 2016) Nas construções prediais são utilizados tubos de diferentes medidas para a instalação da rede de água.
+                    Essas medidas são conhecidas pelo seu diâmetro, muitas vezes medido em polegada. Alguns desses tubos,
+                    com medidas em polegada, são os tubos de 1/2, 3/8 e 5/4.
+                    Colocando os valores dessas medidas em ordem crescente, encontramos
+                </p>
+                <fieldset>
+                    <label for='radio-a'><input type='radio' name='alternativa' value='alternativaA' id='radio-a'>1/2, 3/8, 5/4</label>
+
+                    <label for='radio-a'><input type='radio' name='alternativa' value='alternativaB' id='radio-a'>1/2, 5/4, 3/8</label>
+
+                    <label for='radio-a'><input type='radio' name='alternativa' value='alternaticaC' id='radio-a'>3/8, 1/2, 5/4</label>
+
+                    <label for='radio-a'><input type='radio' name='alternativa' value='alternatiVaD' id='radio-a'>03/8, 5/4, 1/2</label>
+
+                    <label for='radio-a'><input type='radio' name='alternativa' value='alternativaE' id='radio-a'>5/4, 1/2, 3/8</label>
+                </fieldset>	
+            </dd>              
+
+            <dd><h1>
+                4. QUESTÃO BIOLOGIA
+                </h1>
+                <p>
+                    (Enem 2021) Organismos autótrofos e heterótrofos realizam processos complementares que associam os ciclos do carbono e do oxigênio.
+                    O carbono fixado pela energia luminosa ou a partir de compostos inorgânicos é eventualmente degradado pelos organismos,
+                    resultando em fontes de carbono como metano ou gás carbônico. Ainda, outros compostos orgânicos são catabolizados pelos seres,
+                    com menor rendimento energético, produzindo compostos secundários (subprodutos) que podem funcionar como combustíveis ambientais.
+                    O processo metabólico associado à expressão combustíveis ambientais é a                    
+                </p>
+                <fieldset>
+                    <label for='radio-a'><input type='radio' name='alternativa' value='alternativaA' id='radio-a'>Fotossíntese.</label>
+
+                    <label for='radio-a'><input type='radio' name='alternativa' value='alternativaB' id='radio-a'>Fermentação.</label>
+
+                    <label for='radio-a'><input type='radio' name='alternativa' value='alternaticaC' id='radio-a'>Quimiossíntese.</label>
+
+                    <label for='radio-a'><input type='radio' name='alternativa' value='alternatiVaD' id='radio-a'>Respiração aeróbica.</label>
+
+                    <label for='radio-a'><input type='radio' name='alternativa' value='alternativaE' id='radio-a'>Fosforilação oxidativa.</label>
+                </fieldset>	
+            </dd>
+
+            <dd><h1>
+                5. QUESTÃO BIOLOGIA
+                </h1>
+                <p>
+                    (Enem 2018 PPL) A ricina, substância tóxica extraída da mamona, liga-se ao açúcar galactose presente na membrana plasmática de muitas
+                    células do nosso corpo. Após serem endocitadas, penetram no citoplasma da célula, onde destroem os ribossomos,
+                    matando a célula em poucos minutos.
+                </p><h6>SADAVA, D. et al. Vida: a ciência da biologia. Porto Alegre: Artmed, 2009 (adaptado).</h6>
+                <p>  
+                    O uso dessa substância pode ocasionar a morte de uma pessoa ao inibir, diretamente, a síntese de            
+                </p>
+                <fieldset>
+                    <label for='radio-a'><input type='radio' name='alternativa' value='alternativaA' id='radio-a'>RNA.</label>
+
+                    <label for='radio-a'><input type='radio' name='alternativa' value='alternativaB' id='radio-a'>DNA.</label>
+
+                    <label for='radio-a'><input type='radio' name='alternativa' value='alternaticaC' id='radio-a'>Lipídios.</label>
+
+                    <label for='radio-a'><input type='radio' name='alternativa' value='alternatiVaD' id='radio-a'>Proteínas.</label>
+
+                    <label for='radio-a'><input type='radio' name='alternativa' value='alternativaE' id='radio-a'>Carboidratos.</label>
+                </fieldset>	
+            </dd>             
+        </dl>
+    </body>
+</html>
